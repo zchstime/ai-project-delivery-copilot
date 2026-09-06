@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI项目需求拆解与迭代看板"
+  short_description: "把模糊目标拆成里程碑、需求、风险、验收与迭代看板交付体系"
+  default_prompt: "Use -project-delivery-copilot to turn a project goal into an executable delivery board."
